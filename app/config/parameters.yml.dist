@@ -17,3 +17,23 @@ parameters:
 
     # A secret key that's used to generate certain security-related tokens
     secret: ThisTokenIsNotSoSecretChangeIt
+
+
+    ebay:
+        sandbox:
+            credentials:
+                devId: '7bed5958-5109-4724-810f-c64caaf23e27'
+                appId: 'MichaelP-Testing-SBX-859ccfefe-100cc167'
+                certId: 'SBX-59ccfefe4dbf-85c8-4f8a-ac12-e9c9'
+            authToken: 'AgAAAA**AQAAAA**aAAAAA**qnp/Ww**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wFk4ajCZGDowudj6x9nY+seQ**0LMEAA**AAMAAA**zJlGDQgm9W58C/uwTaLCaZNyWxbVvA9EDIr4aBD2Cm/At07fRqrkctO/hUHJUvFH9Eq4F0U5wRpuDBJ7KXDCmIYRJB29WQbzg8sYf5xmLjv4iyANHKg97SfbZIHaSaXSr1u/jdzPiJXhP1pATPEi885B2O2l1VMECXmqdjoNTHHS922yDjvSohFRKsA2JZi283ZuIBdz77eeYNKaHM8ZcCnK1/zB7OaUlnXm7iqUsBQ9fkmi2/NHH2E3/CrNWm9SWNkSAEu5umUIOizrCS7snE8X/Nkzsoqs+38Cd0KDj94EqeI+0SO6RtWYP9ZSg4c/cjeoTfxC6RfA1ZNM5lc3b5r739RPtwOZwKoNgQL+rUdOs2mhw1URJV4PFi3HmFfR5Le3sUHPnpweLKUhiQ67yNoGqPQRz/2zzZ6CN5a/PpDYm6EhVYBnouGJZ7GecdEUyASBnR339owk8mz1bUuvjU8k/oz8vsYU3CLKpBVdmg9KKAhhFxNQOslYv0iE/tCqmpXrMeXRBxV0XPr9gGq8s2QgisPF0GUx5XSLNi4rHu7ipMpFjBjltR5mg5zyAb4ybgdw6QSjUtKC+J91MJRQUwIHQPJ1lLcNY1smPbJmX5zaeFNw9hPELaApTKsW+mC7e0rq5D9EZkknZUQ1WMLZ8vQZhuP2Tkj1SKqNdrl3ecd7VEGXTgQrsrkSzu/Zu8oYU1agr9TG0niNc+5+jgSxz5sjbHOvzRflJTk9kOUEt0TYH9etUdcs1PB9KkNUeTIn'
+            ruName: 'Michael_Parandi-MichaelP-Testin-qhhnxmuqc'
+            sandbox: TRUE
+            siteId: 0
+        production:
+            credentials:
+                devId: '7bed5958-5109-4724-810f-c64caaf23e27'
+                appId: 'Mychailo-Testing-PRD-d59c57255-ecb21662'
+                certId: 'PRD-59c57255d6e1-8512-4b25-b133-5028'
+            authToken: 'AgAAAA**AQAAAA**aAAAAA**In5/Ww**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6wJloWlDJKHow6dj6x9nY+seQ**VZMEAA**AAMAAA**4ulr/pU7FmYWWiXRC15M3pHqJApIprhoUl66SNiPBwWiOokZUhyv11UniqyLracBDVbv3DQDZzA7KbKLAt7aeLHMtpQQv72EM5bFKv/9TYo+7j3FDbRptYjyQgxxhm9FABHdkwjv+LwRa9ItQbPh6NVRBQP0xMOIm8cTZWTms0wz9SGP7IuvZA+39hLslu2i6UVJCGJv+eqTPqzosvV1/DTyJ83QDcnEUmQLT9MaxX9fowIfuJ+vcwY/UN5Tosxl6XElOTNkiW69v3ah7M2yO5AxoxyWerlVdLFvfSjlh8DoSUfpgdPzqq12oLKpQU1anAWa2IpyfaE+tMJZzg8+CKoUTk6PoU6CZIAoSzE4WTv3Akx5JUDFJaZOp+cbcLiq/nzok85Ar9VbhW23Gc2pbZNZbGDdD6i527dNirygEnk0RQNcwdK9pL90KHgY87WTr29DFxTonnyty+9CieK+4exAaheYqpfXibfV/+x4XfeWCQMZfSDjjcUh/wdGYN+ZSJwFpG2TjaKwy4DMMfbyLNuD6rjW0aptskiev0W6a9ubMGcqUN5PleqtrjTrgTs6H0CZWd7xGRyZ3WKpmxodGHm+9/YyUaQ+mz627Lk1MHaU+RF1ew480sco72z/WgtkN9Bs7uiFz1iM411qDmp36YCQSloWEq92NOW+kuEP0iIz2TawvnO/cyBt1PGKtt6e1zJdtNIbjJtfKOe7RYKDTBQjtRmpdhADUPHTK+FEwSIP3flrQXK9Pp2DmOmaPM41'
+            ruName: 'Mychailo_Parand-Mychailo-Testin-ovrhj'
+            siteId: 0
