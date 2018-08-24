@@ -9,13 +9,11 @@ use Symfony\Component\Routing\Annotation\Route;
 class DefaultController
 	extends Controller
 {
-	private $params;
 	private $env;
-
-
+	
 	private $config;
 
-	public function __construct($config)
+	public function __construct( $config )
 	{
 		$this->config = $config;
 
